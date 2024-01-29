@@ -8,7 +8,7 @@ Embark on a revolutionary social experience with our decentralized platform, whe
 
 
 
-**Solved Problem:**
+**Problem Solved:**
 We addressed a critical security flaw related to user data privacy. Implementing robust decentralized architecture and encryption protocols, we fortified the platform against potential breaches. This solution ensures user information remains confidential, instilling trust in our community and creating a secure foundation for seamless, worry-free interactions on our decentralized social media platform
 
 
